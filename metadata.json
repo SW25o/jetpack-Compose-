@@ -1,0 +1,6 @@
+{
+  "name": "Hello Color",
+  "description": "A simple Jetpack Compose app featuring a Hello World text and a button to change its color when clicked.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
