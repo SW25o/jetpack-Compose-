@@ -1,6 +1,6 @@
 {
-  "name": "Hello Color",
-  "description": "A simple Jetpack Compose app featuring a Hello World text and a button to change its color when clicked.",
+  "name": "BN Android IDE",
+  "description": "A powerful, lightweight Kotlin & Jetpack Compose integrated development environment featuring a live interactive code previewer, syntax analyzer, file explorer, compilation terminal, and code structure tools.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
